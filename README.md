@@ -1,5 +1,4 @@
 # CPU Scheduler Simulator
-
 A web-based CPU scheduling algorithm simulator that demonstrates various scheduling algorithms including:
 - First Come First Serve (FCFS)
 - Shortest Job First (SJF)
